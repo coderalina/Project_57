@@ -1,0 +1,24 @@
+body{
+  text-align:center;
+  background: linear-gradient(to right, red,orange,yellow,green,blue,indigo,violet);
+  background-repeat:no-repeat;
+}
+img{
+  border-radius:150%;
+  width:25%;
+}
+H1{
+  font-size:30px;
+  text-shadow:0.5px 0.5px #FF1744;
+}
+.line{   
+    height: 6px;
+    background-color: black;
+    width: 150px;
+    margin: 10px auto;
+}
+p{
+  color:black;
+  font-size:28px;
+text-shadow:0.6px 0.6px #FF1944;
+}
